@@ -15,7 +15,7 @@ This project was developed on macOS 14.6.1 (Sonoma)
 5. Run `npm start` to start the React development server.
 6. Open your browser and visit `http://localhost:3000`.
 7. Enter a string containing parentheses into the input field.
-8. Press Enter or hit Submit button to add valid strings to the output box (invalid strings will be denied);
+8. Press Enter or hit Submit button to add valid strings to the output box (invalid strings will be denied)
 
 ## Node.js Method
 
