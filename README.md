@@ -24,8 +24,22 @@ This project was developed on macOS 14.6.1 (Sonoma)
 1. Make sure you have Node.js installed on your machine.
 2. Clone this repository to your local machine.
 3. Navigate to the project directory in your terminal.
-4. Run the command `node nodeJsVersion.js [string here]` in your terminal, replacing `[string here]` with your parenthesis string (e.g. `([]){}`)
+4. Run the command `node nodeJsVersion.js [string here]` in your terminal, replacing `[string here]` with your parenthesis string (e.g. `"([]){}"`)
 5. The program will print whether the parentheses in the string are valid or not.
+
+**Example:**
+
+```bash
+node nodeJsVersion.js "([{}])"
+```
+
+prints: "Valid"
+
+```bash
+node nodeJsVersion.js "({)"
+```
+
+prints: "Invalid"
 
 ## Examples
 
