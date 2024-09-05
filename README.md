@@ -25,6 +25,23 @@ This project was developed on macOS 14.6.1 (Sonoma)
 4. Run the command `node nodeJsVersion.js [string here]` in your terminal, replacing `[string here]` with your parenthesis string (e.g. `([]){}`)
 5. The program will print whether the parentheses in the string are valid or not.
 
+## Examples
+
+### Valid Strings
+
+- `((((()))))`
+- `([{}])`
+- `{[]()}`
+- `()[{}]`
+
+### Invalid Strings
+
+- `(()`
+- `[}`
+- `}`
+- `(`
+- `([)]`
+
 ## ToDo
 
 - [ ] Add automated tests
