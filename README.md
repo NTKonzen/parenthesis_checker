@@ -8,6 +8,8 @@ This project was developed on macOS 14.6.1 (Sonoma)
 
 ## React Method
 
+> This project was hastily built and therefore primarily optimized for Chrome. Performance on other browsers may vary.
+
 1. Make sure you have Node.js and npm installed on your machine.
 2. Clone this repository to your local machine.
 3. Navigate to the project directory in your terminal.
